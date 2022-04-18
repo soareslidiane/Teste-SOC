@@ -1,0 +1,22 @@
+SITE SOC
+
+Sendo um visitante do site soc
+Quero fazer uma pesquisa
+Para que eu possa encontrar algo
+
+BDD (Behavior Driver Development)
+Desenvolvimento guiado por Comportamento
+
+Pesquisa
+    Dado o acesso guiado pela conexao
+    Quando submeto uma pesquisa
+    Entao deve ser redirecionado para a tela
+
+
+Credenciado
+
+    Dado o acesso guiado para a conexao
+    E acesso a rede credenciada
+    Quando submeto um cep e um filtro
+    Entao deve ser redirecionado para a tela com o credenciado
+
